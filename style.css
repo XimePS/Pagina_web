@@ -23,3 +23,19 @@ button {
 button:hover {
     background-color: #ddd;
 }
+
+
+.boton-cv {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: white;
+    color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.boton-cv:hover {
+    background-color: #ddd;
+}
