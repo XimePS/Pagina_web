@@ -1,3 +1,3 @@
 function mostrarAlerta() {
-    alert("¡Hola desde JavaScript! 🚀");
+    alert("The cosmos is waiting! 🚀");
 }
